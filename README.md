@@ -3,10 +3,6 @@
 
 ---
 
-![Alt Text](./image.png)
-
----
-
 <p align="center">
   <a href="https://portfoliowebapp-hazel.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-blue?style=for-the-badge">
