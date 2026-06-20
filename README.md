@@ -20,6 +20,24 @@ Learn. Build. Refine. Repeat.
 </h3>
 
 --- 
+
+## 🚀 Founder — ReqWorks
+
+Building digital products for students, entrepreneurs, and startups.
+
+**ReqWorks helps transform ideas into:**
+
+- 🌐 Professional Websites
+- ⚡ Web Applications
+- 💻 Custom Digital Solutions
+
+<p align="center">
+  <a href="https://www.reqworks.in">
+    <img src="https://img.shields.io/badge/ReqWorks-Visit%20Website-success?style=for-the-badge">
+  </a>
+</p>
+
+---
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
